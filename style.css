@@ -1,0 +1,110 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 800px;
+}
+a{
+    text-decoration: none;
+}
+nav button{
+    width: 120px;
+    height: 50.41px;
+    background: #FF7A50;
+
+}
+.left{
+   width: 530px;
+   height: 156px;
+}
+.left button{
+    width: 163px;
+height: 50.41px;
+top: 607.78px;
+left: 95px;
+gap: 0px;
+border-radius: 5px 0px 0px 0px;
+opacity: 0px;
+background-color: #FF7A50;
+}
+.box{
+    display: flex;
+}
+b{
+    color: #FF7A50;
+}
+h1{
+   font-size: 66px;
+}
+.box2{
+    display: flex;
+    width: 1212px;
+    height: 723px;
+}
+h2{
+    text-align: center;
+}
+.img{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.inside__wrapper {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+button{
+    background-color: #FF7A50;
+    border: 53px, 5px, 0px, 0px;
+
+}
+.maryam{
+width: 528px;
+height: 244px;
+
+}
+.shadow{
+   display: flex;
+  
+
+}
+footer{
+    width: 1170px;
+height: 312px;
+margin-top: 297px;
+left: 138px;
+gap: 0px;
+opacity: 0px;
+background-color: #FF7A50;
+justify-content: center;
+align-items: center;
+}
+footer h1{
+    color: white;
+    font-size: none;
+   text-align: center;
+   
+}
+.hello{
+    background-color: white;
+    Width :838.5px;
+    Height :78px;
+    Top :3156.45px ;
+    Left :303.75px ;
+   border-Radius :70px ;
+}
+ .class{
+  background-color: #FF7A50;
+    color: #ffff;
+   width: 190px;
+Height :78px;
+border-radius :70px;
+margin-left: none;
+}
